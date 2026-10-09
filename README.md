@@ -25,7 +25,7 @@ Sample quotes are illustrative and are not live market data. Update values yours
 
 Run npm install to install dependencies, npm run dev to start the local server, npm run lint and npm run build to check the project, and npm run deploy to publish it to GitHub Pages.
 
-Planned URL after deployment: https://a2rp.github.io/investment-watchlist/
+Deployed site: https://a2rp.github.io/investment-watchlist/
 
 ## Future improvements
 
